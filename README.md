@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m @VALEELGHAOUTH
 
 - 🎨 Passionate about UX/UI Design and building user-centered digital products  
-- 👩‍💻 Currently learning Full Stack Web Development (React, Node.js, PostgreSQL)  
+- 👩‍💻 Currently learning Full Stack Web Development (React, Node.js, PostgreSQL, MySQL, Python)  
 - 🤝 Open to collaborating on frontend and design-driven projects  
 - 📬 Reach me at: valeelghaouth@gmail.com  
 - 😄 Pronouns: she/her  
